@@ -1,5 +1,5 @@
-Jaco Tomas Luna Pierini 
-DirecciÂ¢n IPv4. . . . . . . . . . . . . . : 192.168.1.114 
+Jaco Tomas Luna Pierini
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.114 
 22:35:46,63
 
-ValentÃ­n, Brazanovich, 192.168.0.119, 10:41:42
+Valentín, Brazanovich, 192.168.0.119, 10:41:42

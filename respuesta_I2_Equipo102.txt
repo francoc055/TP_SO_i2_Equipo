@@ -1,0 +1,4 @@
+a- Hago sync repositories del repo original
+b- ALFA no puede actualizar su fork al estado del fork de GAMMA.
+c- GAMMA no puede actualizar su fork al estado del fork de ALFA.
+d- no se pierden los datos que tenia en mi repositorio.
