@@ -2,3 +2,32 @@ a- Hago sync repositories del repo original
 b- ALFA no puede actualizar su fork al estado del fork de GAMMA.
 c- GAMMA no puede actualizar su fork al estado del fork de ALFA.
 d- no se pierden los datos que tenia en mi repositorio.
+e-
+1-
+git clone https://github.com/francoc055/TP_SO_i2_Equipo.git
+git add fork.txt
+git commit -m "agregar archivo fork.txt"
+git push origin master
+
+2-
+git clone https://github.com/JacoLuna/TP_SO_i2_Equipo.git
+git add fork.txt
+git commit -m "subi mis datos gamma"
+git push origin master
+
+3-
+git clone https://github.com/ValentinBrazanovich/TP_SO_i2_Equipo102.git
+git add fork.txt
+git commit -m "subi mis datos Alpha"
+git push origin master
+
+4-
+git clone https://github.com/francoc055/TP_SO_i2_Equipo102.git
+git add NuevoDato.txt
+git commit -m "agrego archivo NuevoDato "
+git push origin master
+
+5-
+git remote add upstream https://github.com/francoc055/TP_SO_i2_Equipo.git
+git pull upstream master
+git push origin master
